@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    background-image: url("Back3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+    overflow: hidden;
+}
+h1{
+    color: rgb(21, 45, 201);
+    font-size: 35px;
+}
+#indexbody{
+    margin-top: 3em;
+    background-color: whitesmoke;
+    min-height: 60vh;
+    margin-left: 12em;
+    margin-right: 12em;
+    border: 5px solid rgb(7, 0, 0);
+}
+button{
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    background-image: linear-gradient(to left, rgb(78, 78, 247), green);
+    font-size: 15px;
+    padding: 20px;
+    font-family: Verdana;
+    cursor: pointer;
+}

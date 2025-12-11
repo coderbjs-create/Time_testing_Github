@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    font-family: Verdana;
+    background-image: linear-gradient(to right, yellow, yellowgreen, green, blue);
+    overflow: hidden;
+}
+input{
+    font-size: 1.25em;
+    padding: 10px;
+    margin-top: 1em;
+    border: 2px solid rgb(0, 0,7);
+}
+#addody{
+    margin-top: 4em;
+    background-image: linear-gradient(to left, red, purple);
+    margin-left: 21em;
+    margin-right: 21em;
+    min-height: 60vh;
+    border: 5px solid rgb(0, 0,7);
+}
+button{
+    font-size: 1em;
+    background-color: rgb(11, 231, 11);
+    border: 2px solid rgb(111, 0, 255);
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(3, 129, 10);
+}
+button:active{
+    background-color: yellowgreen;
+}
+#add_console_div{
+    background-color: whitesmoke;
+    margin-left: 2em;
+    margin-right: 2em;
+    min-height: 10vh;
+    font-size: 0.8em;
+}
